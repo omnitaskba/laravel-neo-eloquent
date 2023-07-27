@@ -1,5 +1,6 @@
 {
-    "name": "vinelab/neoeloquent",
+    "name": "omnitaskba/laravel-neo-eloquent",
+    "version": "1.0",
     "description": "Laravel wrapper for the Neo4j graph database REST interface",
     "keywords": [
         "neo4j",
